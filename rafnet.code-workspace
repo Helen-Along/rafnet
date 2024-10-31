@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../rafnetApp"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "rafnetApp",
+		"liveServer.settings.port": 5501
+	}
+}
